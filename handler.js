@@ -9,9 +9,9 @@ const AWS=require('aws-sdk');
 
 let config={
   "aws": {
-    "accessKeyId": "AKIAUML3LRJKSEORXRPU",
-    "secretAccessKey": "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",
-    "region": "us-east-1"
+    "accessKeyId": "",
+    "secretAccessKey": "",
+    "region": ""
   }
 }
 
